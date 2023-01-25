@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5260de78-8c43-41e4-9c0e-64dcc7208717": {
+      "ProjectGuid": "5260de78-8c43-41e4-9c0e-64dcc7208717",
+      "DisplayName": "MyBinaryTree",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ebdf76f6-33b4-4b3c-9895-03f358ab316e": {
+      "ProjectGuid": "ebdf76f6-33b4-4b3c-9895-03f358ab316e",
+      "DisplayName": "test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
